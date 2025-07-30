@@ -33,3 +33,9 @@ For implementing deep learning models.
 
 Deployment on Google Cloud
 The chatbot is deployed on Google Cloud Platform (GCP) for reliable and scalable hosting. Users can interact with the chatbot in real-time via the hosted web interface.
+
+<img width="444" height="264" alt="image" src="https://github.com/user-attachments/assets/f3b73334-5148-4d74-85a5-f6b0382adebb" />
+
+<img width="456" height="272" alt="image" src="https://github.com/user-attachments/assets/51d2f6fc-2a58-4c64-8198-c7f4d9c9dc7b" />
+
+
